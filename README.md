@@ -14,6 +14,10 @@ The purpose of this bot was to purchase the token immediately after the caller p
 
 Here is a demonstration of the bot in action: a token address is sent through a test channel, the bot detects it, quickly buys the token, and then sells it 10 seconds later for a potential profit.
 
+https://github.com/user-attachments/assets/e03f5d52-1b59-462e-bbef-9094a2082821
+
+
+
 ## Getting Started
 
 ### What you'll need
