@@ -116,7 +116,7 @@ async def initiating_buy(client, message):
 # Gets the wallet message from BonkBot if there is an ongoing trade
 @app.on_message(
     filters.chat(bonkbotmcqueen)
-    & filters.regex("Welcome to BonkBot|Positions Overview:")
+    & filters.regex("Welcome to BONKBot|Positions Overview:")
 )
 async def get_wallet_message(client, message):
     global last_buy_message_id
