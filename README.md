@@ -16,7 +16,9 @@ Here is a demonstration of the bot in action: a token address is sent through a 
 
 https://github.com/user-attachments/assets/e03f5d52-1b59-462e-bbef-9094a2082821
 
+## Performance and Deployment
 
+The bot is capable of executing a buy within 2 to 4 seconds. Initially, I ran it on my laptop, being careful not to close the VS Code tab. Later on, I deployed the bot on a small DigitalOcean droplet, running up to 3 instances at the same time, each with a different Telegram account and strategy. During peak market activity, this bot was making over 200 SOL a month.
 
 ## Getting Started
 
@@ -74,5 +76,3 @@ Start the bot:
 python lanaos.py
 ```
 Once running, the bot will begin listening for messages and will log every trade both in the terminal and in the `logs.csv` file.
-
-## Performance and Deployment
