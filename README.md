@@ -1,6 +1,6 @@
 # tg-scraper
 
-**tg-scraper** is a trading bot which to listen for messages from specific Telegram channels, parse them for Solana addresses, and forward the addresses to **BonkBot**.
+**tg-scraper** is a trading bot which listens for messages from specific Telegram channels, parse them for Solana addresses, and forward the addresses to **BonkBot**.
 
 **⚠️ Warning: This bot is for educational purposes only. You should not expect to make a profit from it, and I am not responsible for any potential losses.**
 
